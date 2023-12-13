@@ -1,0 +1,23 @@
+https://storageauctions.com/
+
+There is a website that sells storage units. I would like the following work.
+
+
+
+- as needed i will run a script (daily or weekly)
+
+
+
+- script should search this website using my zipcode and number of miles as a parameter
+
+
+
+-scrape results and pictures. Save to a database.
+
+
+
+-use the database to determine changes on next run
+
+
+
+- produce a html or pdf file that contains all found auctions with descriptions and pictures
